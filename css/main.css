@@ -16,7 +16,7 @@ header {
 }
 
 .gnb {
-    width: 90px;
+    width: 100px;
     height: 35px;
     padding-right: 60px;
     display: flex;
@@ -361,7 +361,7 @@ footer {
     }
 
     .gnb {
-        width: 70px;
+        width: 80px;
         height: 30px;
         padding-right: 20px;
     }
